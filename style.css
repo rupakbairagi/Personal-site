@@ -1,0 +1,134 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+section{
+    height: 700px;
+    
+}
+h1{
+    font-size: 50px;
+    color: #EC4C7A;
+    font-weight: bold;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+    padding-top: 5%;
+}
+.half img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.half p{
+    color: dimgray;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(45deg, #EC5093, #ED4B73);
+    border-radius: 5px;
+    position: absolute;
+    top: 380px;
+    color: white;
+    font-weight: 700;
+}
+.half h2{
+    position: absolute;
+    top: 160px;
+}
+#half-left{
+    padding-top: 12%;
+    
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+.half-middle{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+    padding-top: 5%;
+}
+.half-middle img{
+    width: 100%;
+}
+.middle{
+    background-image: url("images/biography-bg.png");
+}
+.half-middle{
+    padding-top: 10%;
+   
+}
+#half-middle-id{
+    padding-top: 15%;
+}
+.half-middle h2{
+    font-weight: 700;
+}
+.half-middle p{
+    color: dimgray;
+}
+.link{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(45deg, #EC5093, #ED4B73);
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    position: absolute;
+    top: 160vh;
+    
+
+}
+
+
+
+.works{
+    height: 600px;
+}
+.half-works{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+    padding-top: 5%;
+
+    
+    
+    
+
+}
+.half-works img{
+    width: 300px;
+    height: 250px;
+}
+.works h2{
+    text-align: center;
+    padding-top: 5%;
+    font-weight: bold;
+}
+.works{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
